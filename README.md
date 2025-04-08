@@ -1,6 +1,6 @@
 #  Personal Finance Dashboard
 
-A full-stack expense management and visualization tool built using React, Spring Boot, and MySQL. This dashboard helps users track, filter, visualize, and export their daily expenses in an intuitive interface.
+A full-stack expense management and visualization tool built using React, JAVA, Spring Boot, MUI and MySQL. This dashboard helps users track, filter, visualize, and export their daily expenses in an intuitive interface.
 
 <img width="1440" alt="Screenshot 2025-04-08 at 12 31 39 PM" src="https://github.com/user-attachments/assets/b614c86b-3c2f-450e-b64b-930a5fbe97ed" />
 
