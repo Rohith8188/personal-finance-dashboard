@@ -2,8 +2,7 @@
 
 A full-stack expense management and visualization tool built using React, Spring Boot, and MySQL. This dashboard helps users track, filter, visualize, and export their daily expenses in an intuitive interface.
 
-![dashboard preview](<img width="1440" alt="Screenshot 2025-04-08 at 12 31 39 PM" src="https://github.com/user-attachments/assets/b614c86b-3c2f-450e-b64b-930a5fbe97ed" />
-)
+<img width="1440" alt="Screenshot 2025-04-08 at 12 31 39 PM" src="https://github.com/user-attachments/assets/b614c86b-3c2f-450e-b64b-930a5fbe97ed" />
 
 ---
 
@@ -69,18 +68,16 @@ npm start
 
 > *Below are example screenshots of the dashboard UI.*
 
-###  Add Expense Form
-![Add Expense Form](https://user-images.githubusercontent.com/your-github-id/add-expense-screenshot.png)
+###  Frontend
+<img width="1440" alt="Screenshot 2025-04-08 at 12 31 39 PM" src="https://github.com/user-attachments/assets/8da6db01-a85d-476b-a1c6-03cc16fb8c60" />
 
-###  Charts & Visualizations
-![Charts](https://user-images.githubusercontent.com/your-github-id/charts-screenshot.png)
+###  Backend
+<img width="1440" alt="Screenshot 2025-04-08 at 12 31 59 PM" src="https://github.com/user-attachments/assets/096af37b-fcda-4105-9420-5c822db43848" />
 
-> *(To add your own screenshots: take a full-page screenshot → upload to your GitHub issue → right-click → Copy image address → replace links above.)*
+## Contact
 
-## 📬 Contact
-
-**Rohith Sunny**  
+**Rohith Rao**  
 👨‍💻 Full Stack Developer  
-📍 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-🌐 [Portfolio](https://your-portfolio.com)  
-📧 rohith.sunny@example.com
+📍 [LinkedIn]()  
+🌐 [Portfolio]()  
+📧 rohithrao0910@gmail.com
