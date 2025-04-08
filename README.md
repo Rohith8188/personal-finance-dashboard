@@ -8,7 +8,7 @@ A full-stack expense management and visualization tool built using React, JAVA, 
 
 ##  Live Demo
 
-- 🌐 **Frontend**: [https://your-site.netlify.app](https://your-site.netlify.app)
+- 🌐 **Frontend**: https://subtle-gumdrop-4bbf7b.netlify.app/
 - 🔙 **Backend API**: [https://your-api.onrender.com/api/expenses](https://your-api.onrender.com/api/expenses)
 
 ---
@@ -73,6 +73,20 @@ npm start
 
 ###  Backend
 <img width="1440" alt="Screenshot 2025-04-08 at 12 31 59 PM" src="https://github.com/user-attachments/assets/096af37b-fcda-4105-9420-5c822db43848" />
+
+##  Contributions & Suggestions
+
+I welcome any suggestions, improvements, or ideas to make this project better.
+
+If you'd like to contribute:
+
+-  Fork the repo
+-  Create a new branch (`git checkout -b feature/your-feature`)
+-  Make your changes
+-  Commit and push (`git commit -m 'Add your feature'`)
+-  Open a Pull Request
+
+All feedback, bug reports, and feature requests are appreciated 🙌
 
 ## Contact
 
